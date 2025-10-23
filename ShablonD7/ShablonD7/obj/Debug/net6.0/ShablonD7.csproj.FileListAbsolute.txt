@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ShablonD7\ShablonD7\obj\Debug\net6.0\ShablonD7.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ShablonD7\ShablonD7\obj\Debug\net6.0\ShablonD7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ShablonD7\ShablonD7\obj\Debug\net6.0\ShablonD7.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ShablonD7\ShablonD7\obj\Debug\net6.0\ShablonD7.AssemblyInfo.cs
+C:\Users\User\source\repos\ShablonD7\ShablonD7\obj\Debug\net6.0\ShablonD7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ShablonD7\ShablonD7\bin\Debug\net6.0\ShablonD7.exe
+C:\Users\User\source\repos\ShablonD7\ShablonD7\bin\Debug\net6.0\ShablonD7.deps.json
+C:\Users\User\source\repos\ShablonD7\ShablonD7\bin\Debug\net6.0\ShablonD7.runtimeconfig.json
+C:\Users\User\source\repos\ShablonD7\ShablonD7\bin\Debug\net6.0\ShablonD7.dll
+C:\Users\User\source\repos\ShablonD7\ShablonD7\bin\Debug\net6.0\ShablonD7.pdb
+C:\Users\User\source\repos\ShablonD7\ShablonD7\obj\Debug\net6.0\ShablonD7.dll
+C:\Users\User\source\repos\ShablonD7\ShablonD7\obj\Debug\net6.0\refint\ShablonD7.dll
+C:\Users\User\source\repos\ShablonD7\ShablonD7\obj\Debug\net6.0\ShablonD7.pdb
+C:\Users\User\source\repos\ShablonD7\ShablonD7\obj\Debug\net6.0\ShablonD7.genruntimeconfig.cache
+C:\Users\User\source\repos\ShablonD7\ShablonD7\obj\Debug\net6.0\ref\ShablonD7.dll
